@@ -1,19 +1,10 @@
-💰 Simple Java Mini Project – Bank Account Simulation
-A simple Java mini project to simulate a bank account. Demonstrates core object-oriented programming concepts including:
+💳 Java Bank Account Simulation Mini-Project
+This mini-project showcases core Object-Oriented Programming (OOP) concepts in Java through a simple bank account simulation. It demonstrates how real-world banking operations like deposits and withdrawals can be modeled using Java classes and business logic.
 
-Constructors for object initialization
-
-The this keyword to reference the current object
-
-Static variables for shared data like the bank name
-
-Encapsulation using private fields and public methods
-
-Basic business logic like deposit, withdrawal, and balance checks
-
-🧾 Overview
-The project contains two classes:
-
-BankAccount – handles all account-related logic and data
-
-Client – tests the functionality by creating an account, performing transactions, and displaying information
+🔍 Concepts Covered
+✅ Constructors for object creation and initialization
+✅ this keyword to reference the current instance and avoid naming conflicts
+✅ Static variables & methods to maintain shared class-level data (e.g., bank name)
+✅ Encapsulation by restricting direct access to class fields
+✅ Basic business logic for deposits, withdrawals, and balance management
+✅ Output formatting & feedback through simple print statements
