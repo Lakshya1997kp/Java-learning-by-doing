@@ -1,4 +1,5 @@
 💳 Java Bank Account Simulation Mini-Project
+
 This mini-project showcases core Object-Oriented Programming (OOP) concepts in Java through a simple bank account simulation. It demonstrates how real-world banking operations like deposits and withdrawals can be modeled using Java classes and business logic.
 
 🔍 Concepts Covered
